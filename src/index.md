@@ -1,8 +1,8 @@
 ---
 layout: home
-title: 'Eleventy Duo'
+title: 'Public Sector AI'
 ---
 
-# Hello World
+# Welcome to Public Sector AI
 
-Eleventy Duo is a minimal and beautiful Eleventy theme for personal blogs. Checkout the [project's github repo](https://github.com/yinkakun/eleventy-duo) for more info.
+We are public sector employees who are curious about artificial intelligence, and concerned about ethics and security. We aim to create a resource the public sector to learn about the latest developments, become AI literate, and be able to meaningfully engage with AI, or not.

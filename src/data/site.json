@@ -1,5 +1,5 @@
 {
-  "name": "Eleventy Duo",
+  "name": "Public Sector AI",
   "description": "Eleventy Duo is a minimal and beautiful Eleventy theme for personal blogs.",
   "url": "https://eleventyduo.netlify.app",
   "author": {
@@ -18,22 +18,22 @@
       "text": "About",
       "url": "/about",
       "external": false
+    },
+       {
+      "text": "Reading List",
+      "url": "/reading",
+      "external": false
+    },
+       {
+      "text": "Newsletter",
+      "url": "https://news.publicsectorai.tech/",
+      "external": false
     }
   ],
   "socialLinks": [
     {
-      "text": "Instagram",
-      "url": "https://instagram.com/",
-      "external": true
-    },
-    {
-      "text": "GitHub",
-      "url": "https://github.com/yinkakun/eleventy-duo",
-      "external": true
-    },
-    {
-      "text": "Twitter",
-      "url": "https://twitter.com/",
+      "text": "Join our newsletter",
+      "url": "https://news.publicsectorai.tech/",
       "external": true
     }
   ],
