@@ -3,9 +3,8 @@
   "description": "Resources on artificial intelligence by public servants, for public servants.",
   "url": "https://publicsectorai.tech",
   "author": {
-    "name": "Author Name",
-    "email": "author@site.com",
-    "twitterHandle": "author_handle"
+    "name": "Adrianna Tan",
+    "email": "news@publicsectorai.tech"
   },
   "defaultSocialImage": "/images/default-social-image.jpg",
   "headerLinks": [
@@ -41,7 +40,7 @@
     {
       "text": "RSS",
       "url": "/feed.xml",
-      "external": true
+      "external": false
     }
   ],
   "showFooterAttribution": true
