@@ -19,3 +19,4 @@ Many of these readings from a Data Ethics class at the University of San Francis
 - [The Role and Limits of Principles in AI Ethics](https://www.aies-conference.com/2019/wp-content/papers/main/AIES-19_paper_188.pdf)
 - [Better, Nicer, Clearer, Fairer: A Critical Assessment of the Movement for Ethical Artificial Intelligence and Machine Learning](https://www.semanticscholar.org/paper/Better%2C-Nicer%2C-Clearer%2C-Fairer%3A-A-Critical-of-the-Greene-Hoffmann/e6bcf7d0e3798aebb7114cdc3d89a55a808b29de)
 - [Transcript of Dr. Rumman Chowdhury's talk on Algorithmic Colonialism at IntersectTO 2019](https://docs.google.com/document/d/1wyes_kCE_WlctUtEQw5yuuJplddkSQtuGHBMxsjycGA/edit)
+- [The Call for Trauma‐Informed Design Research and Practice](https://www.researchgate.net/publication/360313850_The_Call_for_Trauma-Informed_Design_Research_and_Practice), Rachael Dietkus,     Social Workers Who Design (2022) 
